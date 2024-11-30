@@ -6,7 +6,6 @@
       {
         "id": "d58a02de4bdd2e02",
         "type": "tabs",
-        "dimension": 61.73857868020305,
         "children": [
           {
             "id": "5ddd7a3ee4b0e319",
@@ -14,29 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading notation and TAB.md",
+                "file": "1. Original Rock Guitar Foundation Course/3. Open Strings/2. Tempo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reading notation and TAB"
-            }
-          }
-        ]
-      },
-      {
-        "id": "8ac6bcdb05856eac",
-        "type": "tabs",
-        "dimension": 38.26142131979696,
-        "children": [
-          {
-            "id": "bab24de974c852c2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "2. Tempo"
             }
           }
         ]
@@ -111,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading notation and TAB.md",
+                "file": "1. Original Rock Guitar Foundation Course/3. Open Strings/2. Tempo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Reading notation and TAB"
+              "title": "Backlinks for 2. Tempo"
             }
           },
           {
@@ -130,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reading notation and TAB.md",
+                "file": "1. Original Rock Guitar Foundation Course/3. Open Strings/2. Tempo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Reading notation and TAB"
+              "title": "Outgoing links from 2. Tempo"
             }
           },
           {
@@ -157,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reading notation and TAB.md"
+                "file": "1. Original Rock Guitar Foundation Course/3. Open Strings/2. Tempo.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Reading notation and TAB"
+              "title": "Outline of 2. Tempo"
             }
           }
         ]
@@ -181,10 +163,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e3f6664d0e08611b",
+  "active": "5ddd7a3ee4b0e319",
   "lastOpenFiles": [
+    "1. Original Rock Guitar Foundation Course/3. Open Strings/Untitled.md",
+    "1. Original Rock Guitar Foundation Course/3. Open Strings/1. Alternate Picking.md",
+    "1. Original Rock Guitar Foundation Course/3. Open Strings",
+    "1. Original Rock Guitar Foundation Course/3. Open Strings/2. Tempo.md",
+    "1. Original Rock Guitar Foundation Course/2. Rhythm/2. Time signature.md",
+    "1. Original Rock Guitar Foundation Course/2. Rhythm/Untitled",
+    "1. Original Rock Guitar Foundation Course/2. Rhythm/1. Notes and note values.md",
+    "1. Original Rock Guitar Foundation Course/1. Guitar 101/1. Reading notation and TAB/3. Guitar Fretboard.md",
+    "1. Original Rock Guitar Foundation Course/2. Rhythm",
+    "1. Original Rock Guitar Foundation Course/1. Guitar 101/1. Reading notation and TAB/2. Reading Tab.md",
+    "1. Original Rock Guitar Foundation Course/1. Guitar 101/1. Reading notation and TAB/1. Reading notation.md",
+    "1. Original Rock Guitar Foundation Course/1. Guitar 101/1. Reading notation and TAB",
+    "1. Original Rock Guitar Foundation Course/1. Guitar 101",
+    "1. Original Rock Guitar Foundation Course",
     "README.md",
-    "Reading notation and TAB.md",
     "Welcome.md"
   ]
 }
