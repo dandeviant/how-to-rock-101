@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Original Rock Guitar Foundation Course/3. Open Strings/2. Tempo.md",
+                "file": "1. Original Rock Guitar Foundation Course/4. Open Chords/1. Open chords and progressions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Tempo"
+              "title": "1. Open chords and progressions"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Original Rock Guitar Foundation Course/3. Open Strings/2. Tempo.md",
+                "file": "1. Original Rock Guitar Foundation Course/4. Open Chords/1. Open chords and progressions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2. Tempo"
+              "title": "Backlinks for 1. Open chords and progressions"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Original Rock Guitar Foundation Course/3. Open Strings/2. Tempo.md",
+                "file": "1. Original Rock Guitar Foundation Course/4. Open Chords/1. Open chords and progressions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2. Tempo"
+              "title": "Outgoing links from 1. Open chords and progressions"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Original Rock Guitar Foundation Course/3. Open Strings/2. Tempo.md"
+                "file": "1. Original Rock Guitar Foundation Course/4. Open Chords/1. Open chords and progressions.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. Tempo"
+              "title": "Outline of 1. Open chords and progressions"
             }
           }
         ]
@@ -165,10 +165,13 @@
   },
   "active": "5ddd7a3ee4b0e319",
   "lastOpenFiles": [
-    "1. Original Rock Guitar Foundation Course/3. Open Strings/Untitled.md",
     "1. Original Rock Guitar Foundation Course/3. Open Strings/1. Alternate Picking.md",
-    "1. Original Rock Guitar Foundation Course/3. Open Strings",
+    "1. Original Rock Guitar Foundation Course/4. Open Chords/1. Open chords and progressions.md",
+    "1. Original Rock Guitar Foundation Course/4. Open Chords",
+    "1. Original Rock Guitar Foundation Course/3. Open Strings/Untitled.md",
+    "1. Original Rock Guitar Foundation Course/3. Open Strings/3. Bars and bar lines.md",
     "1. Original Rock Guitar Foundation Course/3. Open Strings/2. Tempo.md",
+    "1. Original Rock Guitar Foundation Course/3. Open Strings",
     "1. Original Rock Guitar Foundation Course/2. Rhythm/2. Time signature.md",
     "1. Original Rock Guitar Foundation Course/2. Rhythm/Untitled",
     "1. Original Rock Guitar Foundation Course/2. Rhythm/1. Notes and note values.md",
